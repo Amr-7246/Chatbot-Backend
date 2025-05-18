@@ -1,0 +1,9 @@
+run.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+.gitignore
+README.md

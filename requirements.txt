@@ -1,0 +1,15 @@
+python-dotenv
+fastapi
+uvicorn
+openai         
+tavily-python  
+pydantic
+httpx
+# LangChain Ecosystem
+langchain
+langgraph
+# LLM Claude & openai models (Anthropic) and Tools
+openai
+langchain-anthropic
+langchain-community
+tavily-python
